@@ -18,4 +18,4 @@ This repository contains the user-facing interface of SkillMesh built with moder
 
 - **Framework:** React.js
 - **Styling:** Tailwind CSS
-- **Routing:** React Router
+- **Routing:** React Router 
