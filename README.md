@@ -11,6 +11,7 @@ SkillMesh aims to bridge the gap between opportunities and talent by offering:
 - 🛠️ Real-time mentorship support
 - 🧑‍💼 Recruitment portal for hiring teams
 - 🏆 Gamified participation and engagement
+- 🤖 ChatBot support.
 
 This repository contains the user-facing interface of SkillMesh built with modern web technologies.
 
